@@ -1,0 +1,2 @@
+#define EE_HANDS
+#define MATRIX_COL_PINS_RIGHT { B6, B2, B3, B1, F7, F6 }
